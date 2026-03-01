@@ -1,2 +1,2 @@
 # DIY-2DOF-Motion-Sim-Rig
-A complete guide to building a 2-DOF motion simulator from start to finish.
+This is a complete guide on how to Build a Motion sim rig from the ground up, whith every little detail you need to know to build a motion rig,
